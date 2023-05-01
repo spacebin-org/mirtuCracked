@@ -1,0 +1,7 @@
+["/wp-content/plugins/wpyii2/wpyii2.php|type=password",
+"/wp-content/plugins/wpputty/wpputty.php|type=password",
+"/wp-content/plugins/dos2unix/dos2unix.php|type=password",
+"/wp-content/plugins/anttt/simple.php|inputfile",
+"/wp-content/plugins/TOPXOH/wDR.php|FilesMan",
+"/wp-content/plugins/wordpresss3cll/up.php|Gaskan",
+"/wp-content/plugins/wp-file-upload/ROOBOTS.php|Upl0od Your T0ols"]
